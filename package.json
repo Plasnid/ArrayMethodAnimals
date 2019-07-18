@@ -1,0 +1,22 @@
+{
+  "name": "arraymethodanimals",
+  "version": "1.0.0",
+  "description": "array methods practice session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/ArrayMethodAnimals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/ArrayMethodAnimals/issues"
+  },
+  "homepage": "https://github.com/Plasnid/ArrayMethodAnimals#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
